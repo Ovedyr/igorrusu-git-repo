@@ -1,2 +1,2 @@
-print hello
-hello everyone
+print hello;	
+hello everyone;
